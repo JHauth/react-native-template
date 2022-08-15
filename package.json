@@ -1,7 +1,7 @@
 {
   "name": "reactnativetemplate",
   "version": "1.0.0",
-  "main": "App.tsx",
+  "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "author": "Joshua Hauth",
   "license": "MIT",
